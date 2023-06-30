@@ -2,9 +2,11 @@
 
 软件版本如下：
 ngspice-39
+
 python 3.9.16
+
 anaconda   2022.05-Linux-x86
-conda rllib
+
 
 Reference:https://docs.ray.io/en/latest/rllib/index.html
 
